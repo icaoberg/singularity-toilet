@@ -13,7 +13,7 @@
  #    # #   #  #mmmmm "mmm#"  #mm#  #    # #mmmmm
 ```
 
-A simple container with [toilet](https://en.wikipedia.org/wiki/toilet).
+A simple container with [toilet](https://en.wikipedia.org/wiki/TOIlet).
 
 ## Building the container
 ```
